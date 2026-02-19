@@ -1,0 +1,10 @@
+{
+  "game": "Adventure Quest",
+  "level": 15,
+  "score": 8500,
+  "inventory": [
+    "sword",
+    "shield",
+    "potion"
+  ]
+}
